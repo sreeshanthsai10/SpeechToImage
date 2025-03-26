@@ -1,1 +1,3 @@
 # SpeechToImage
+
+Generates image from given speech...
