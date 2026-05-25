@@ -5,7 +5,7 @@ import requests
 from PIL import Image
 from langdetect import detect  
 
-api_key = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImU1YWNiYjVhZjRhZTdkYjExNjhkYjYwZGMzMWIxZDg3IiwiY3JlYXRlZF9hdCI6IjIwMjQtMDctMjZUMTM6MTE6NTguMzI2MDc3In0.IDslWwiRwH_lY4F6QSFOXKHqqTag3T3813CoZgRA9A4'
+api_key ='' #Api key from MonsterAPI 
 monster_client = client(api_key)
 
 recognizer = sr.Recognizer()
